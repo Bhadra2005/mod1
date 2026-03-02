@@ -7,9 +7,12 @@ venv/
 
 trial.png
 
+website/scripts/
 # Ignore all candidate uploads (photos, halltickets, etc.)
 website/uploads/
 website/uploads/*
+website/uploads/facever/
+website/uploads/ocr/
 
 # Ignore Python cache
 __pycache__/
